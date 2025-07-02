@@ -1,5 +1,3 @@
-streamlit
-pandas
-pdfkit
-smtplib
-email
+streamlit>=1.26
+pandas>=2.0
+pdfkit>=1.0
