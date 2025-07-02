@@ -1,0 +1,6 @@
+id,name,sector_focus,min_investment_size,preferred_esg_criteria
+1,Green Ventures,renewable energy,50000,"E,S"
+2,EcoFund,climate tech,20000,"E,G"
+3,Sustainable Capital Partners,agriculture,30000,"E,S,G"
+4,CleanTech Africa,energy efficiency,40000,"E"
+5,ImpactGrowth,urban development,25000,"S,G"

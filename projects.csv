@@ -1,0 +1,5 @@
+id,name,sector,location,funding_needed,sustainability_impact,esg_tags,readiness_level
+1,Solar Farm Kitui,renewable energy,Kitui,60000,"Solar power for homes","E:renewable energy,S:job creation","Scalable"
+2,Green Transport Nairobi,climate tech,Nairobi,20000,"Electric tuk-tuks for the CBD","E:carbon reduction,S:community engagement,G:governance structure","Prototype"
+3,Organic Agri Network,eco agriculture,Eldoret,30000,"Organic supply chain expansion","S:job creation,E:water conservation,G:transparent reporting","Piloted"
+4,Smart LED Upgrade,energy efficiency,Mombasa,50000,"Public LED lighting retrofit","E:energy saving","Idea"
